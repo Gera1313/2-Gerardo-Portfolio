@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color:aqua
+    }
+    
+    html, body {
+    padding: 0px;
+    margin: 0px;
+    }
+    
+    .main-header {
+        background-image: url('/assets/images/header_footer.jpeg');
+        text-align: center;
+        padding-bottom: 60px;
+        }
+    
+    .nav ul {
+    margin: 0px;
+    }
+    
+    
+    .nav li {
+    display: inline;
+    }
+    
+    
+    .nav a {
+    display:inline-block;
+    padding: 15px;
+    text-decoration: none;
+    }
+    
+    
+    .main-nav {
+    text-align: end;
+    font-size: 25px;
+    }
+    
+    .nav a:hover {
+    background-color: rgba(255, 255, 255, .3);
+    }
+    
+.student-name {
+    margin: 0px;
+    font-size: 50px;
+    font-weight: normal;
+}
+    
