@@ -9,6 +9,7 @@
     margin: 0px;
     }
     
+    /* This element, and the next 6, add style to the navigation menu */
     .main-header {
         background-image: url('/assets/images/header_footer.jpeg');
         text-align: center;
@@ -31,7 +32,6 @@
     text-decoration: none;
     }
     
-    
     .main-nav {
     text-align: end;
     font-size: 25px;
@@ -41,9 +41,35 @@
     background-color: rgba(255, 255, 255, .3);
     }
     
-.student-name {
-    margin: 0px;
-    font-size: 50px;
-    font-weight: normal;
-}
+    .student-name {
+        margin: 0px;
+        font-size: 50px;
+        font-weight: normal;
+    }
     
+    /* The styling of the body, specifically the About Me, starts here */
+    .section-content {
+        margin: 20px;
+    }
+
+    .container {
+        margin: 0 auto;
+    }
+
+    .section-header {
+        font-weight: normal;
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .about-me-image {
+        margin: 20px;
+        border-radius: 20px;
+        float:left;
+    }
+
+    .about-me-content {
+        font-size: 20px;
+        max-width: 1500px;
+        text-align: justify;
+    }
