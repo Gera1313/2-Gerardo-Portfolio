@@ -10,7 +10,7 @@
     background-color: #0A003E;
     }
     
-    /* This element, and the next 6, add style to the navigation menu */
+/* This element, and the next 6, add style to the navigation menu */
     .main-header {
         background-image: url('/assets/images/header_footer.jpeg');
         text-align: center;
@@ -48,7 +48,7 @@
         font-weight: normal;
     }
     
-    /* The styling of the body, specifically the About Me, starts here */
+/* The styling of the About Me section starts here */
     .section-content {
         margin: 20px;
     }
@@ -73,6 +73,25 @@
         font-size: 20px;
         max-width: 1500px;
         text-align: justify;
+    }
+
+    /* application. application-title. application-image */
+
+    .application-title {
+        display: block;
+        width: 100%;
+        text-align: center;
+        font-size: 20px;
+        margin-bottom: 55px;
+    }
+
+    .zoom {
+        transition: transform .2s;
+        margin: 0 auto;
+    }
+
+    .zoom:hover {
+        transform: scale(1.5);
     }
 
     /* Styling of footer begins here */
