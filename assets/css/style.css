@@ -78,8 +78,26 @@
     /* Styling of footer begins here */
     .main-footer {
         background-image: url(/assets/images/header_footer.jpeg);
-        padding-bottom: 20px;
-        padding-top: 5px;
-        margin-top: 25px;
+        padding: 5px 0;
+    }
+
+    .main-footer-container {
+        display: flex;
+        align-items: center;
+    }
+
+    .main-footer-container ul {
+        flex-grow: 1;
+        text-align: end;
+    }
+
+    .footer-nav li {
+        padding: 0 5px;
+    }
+
+    .footer-name {
+        font-weight: normal;
+        font-size: 35px;
+        margin-left: 200px;
     }
 
