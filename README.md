@@ -37,12 +37,18 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Screenshot & link
 
-The following screenshot shows the web application's appearance and functionality:
+The following screenshot and URL shows the web application's appearance and functionality:
 
 ![Site Screenshot](./assets/images/Site-Image.png)
+https://gera1313.github.io/Portfolio-Challenge-2/ [GitHub]
 
+The following image shows where the title was not behaving as intended and could not figure it out:
 
+![Site Screenshot](./assets/images/Title-defect.png)
 
+The following image shows how Live Server correctly displays the 'Contact Me' buttons (but the live site does not for some reason):
+
+![Site Screenshot](./assets/images/Contact-Me.png)
 
 ## Installation
 
