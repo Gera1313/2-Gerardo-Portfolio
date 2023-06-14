@@ -12,7 +12,7 @@
     
 /* This element, and the next 6, add style to the navigation menu */
     .main-header {
-        background-image: url('/assets/images/header_footer.jpeg');
+        background-image: url("/assets/images/header_footer.jpeg");
         text-align: center;
         padding-bottom: 60px;
         }
