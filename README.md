@@ -46,7 +46,7 @@ The following image shows where the title was not behaving as intended and could
 
 ![Site Screenshot](./assets/images/Title-defect.png)
 
-The following image shows how Live Server correctly displays the 'Contact Me' buttons, but the deployed site does not for some reason. Additionally, the header and footer image are displayed in the Live Server, but not in the deployed site as you can see in these images. 
+The following image shows how Live Server correctly displays the footer background image, but the deployed site does not for some reason. You can see the header image in one of the above screenshots. 
 
 ![Site Screenshot](./assets/images/Contact-Me.png)
 
