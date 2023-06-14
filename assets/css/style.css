@@ -15,6 +15,7 @@
         background-image: url(/assets/images/header_footer.jpeg);
         text-align: center;
         padding-bottom: 60px;
+        background-color: #000029;
         }
     
     .nav ul {
@@ -103,6 +104,7 @@
     .main-footer {
         background-image: url(/assets/images/header_footer.jpeg);
         padding: 5px 0;
+        background-color: #000029;
     }
 
     .main-footer-container {
