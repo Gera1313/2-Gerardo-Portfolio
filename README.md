@@ -1,4 +1,4 @@
-# 02 Challenge - Portfolio Website
+# Portfolio Website
 
 ## My Task
 
