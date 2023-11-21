@@ -79,7 +79,7 @@
   
   .about-me-content {
     font-size: 20px;
-    max-width: 1500px;
+    max-width: 99%;
     text-align: justify;
   }
   
@@ -89,7 +89,6 @@
     box-sizing: border-box;
     padding: 0 10px;
     margin: 10px 5px;
-    /* margin: 10px 1%; */
     text-align: center;
     width: 48%;
   }
