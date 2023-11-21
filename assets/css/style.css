@@ -79,21 +79,22 @@
   
   /* applications section applications section applications section */
   .title-image-card {
-    display: inline;
+    display: inline-block;
     padding: 0 10px;
     margin: 10px 5px;
     text-align: center;
+    width: 48%;
   }
   
   .application-title {
     font-size: 20px;
-    text-align:left;
+    text-align: center;
     margin: 10px 0;
   }
   
   .zoom {
     transition: transform 0.2s;
-    margin: 0 auto;
+    margin: 0 5px;
   }
   
   .zoom:hover {
@@ -141,5 +142,9 @@
   
     .footer-name {
       margin-left: 0;
+    }
+
+    .title-image-card {
+        flex-direction: column;
     }
   }
