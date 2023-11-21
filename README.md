@@ -1,6 +1,6 @@
 # Portfolio Website
 
-## My Task
+## The Task
 
 A portfolio used to introduce myself to potential employers. The site contains informaiton about me, my work, and how to reach me. 
 
@@ -15,8 +15,6 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 
 ## Acceptance Criteria
-
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
 
 ```
 GIVEN I need to sample a potential employee's previous work
@@ -35,28 +33,21 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 
-## Screenshot & link
+## Usage
 
-The following screenshot and URL shows the web application's appearance, functionality, and shortcomings:
+Website will be used to introduce myself and my work to others.
 
-https://gera1313.github.io/Portfolio-Challenge-2/ [GitHub]
-![Site Screenshot](./assets/images/Site-Image.png)
+The following screenshot displays the web application's appearance:
 
-The following image shows where the title was not behaving as intended and could not figure out how to fix it:
-
-![Site Screenshot](./assets/images/Title-defect.png)
-
-The following image shows how Live Server correctly displays the footer background image, but the deployed site does not for some reason. You can see the header image in one of the above screenshots. 
-
-![Site Screenshot](./assets/images/Contact-Me.png)
+![Site Screenshot](./assets/images/home.png)
 
 ## Installation
 
 N/A
 
-## Usage
+## Links
 
-Website will be used to indtroduce myself and my work to others. 
+[Gerardo's Portfolio](https://gera1313.github.io/2-Gerardo-Portfolio/)
 
 ## Credits
 

@@ -83,7 +83,7 @@
     text-align: justify;
   }
   
-  /* applications section applications section applications section */
+  /* applications section */
   .title-image-card {
     display: inline-block;
     box-sizing: border-box;
@@ -108,6 +108,7 @@
     transform: scale(1.5);
   }
 
+  /* Adds space between footer and images */
   #my-work {
     margin-bottom: 50px;
   }
