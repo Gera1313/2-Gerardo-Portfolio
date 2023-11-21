@@ -58,6 +58,12 @@
     margin: 0 auto;
     text-align: center;
   }
+
+  .container::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
   
   .section-header {
     font-weight: normal;
@@ -80,8 +86,10 @@
   /* applications section applications section applications section */
   .title-image-card {
     display: inline-block;
+    box-sizing: border-box;
     padding: 0 10px;
     margin: 10px 5px;
+    /* margin: 10px 1%; */
     text-align: center;
     width: 48%;
   }
@@ -145,6 +153,8 @@
     }
 
     .title-image-card {
-        flex-direction: column;
+        /* flex-direction: column; */
+        width: 100%;
+        margin: 10px 0;
     }
   }
