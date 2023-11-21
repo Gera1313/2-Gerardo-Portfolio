@@ -107,6 +107,10 @@
   .zoom:hover {
     transform: scale(1.5);
   }
+
+  #my-work {
+    margin-bottom: 50px;
+  }
   
   /* Styling of footer begins here */
   .main-footer {
