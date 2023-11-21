@@ -127,3 +127,19 @@ body {
   font-size: 35px;
   margin-left: 10px;
 }
+
+/* Media queries */
+@media screen and (max-width: 600px) {
+    .nav {
+        text-align: center;
+    }
+
+    .nav li {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .footer-name {
+        margin-left: 0;
+    }
+}
