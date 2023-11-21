@@ -79,16 +79,19 @@ body {
 /* applications section applications section applications section */
 .title-image-card {
   display: inline-block;
-  padding: 0 20px;
-  margin: 10px 10px;
+  padding: 0 10px;
+  margin: 10px 5px;
   text-align: center;
 }
 
 .application-title {
-  width: 100%;
+  /* width: 100%;
   font-size: 20px;
   margin-bottom: 55px;
-  text-align: left;
+  text-align: left; */
+  font-size: 20px;
+  text-align: center;
+  margin: 10px 0;
 }
 
 .zoom {
@@ -130,16 +133,16 @@ body {
 
 /* Media queries */
 @media screen and (max-width: 600px) {
-    .nav {
-        text-align: center;
-    }
+  .nav {
+    text-align: center;
+  }
 
-    .nav li {
-        display: block;
-        margin-bottom: 10px;
-    }
+  .nav li {
+    display: block;
+    margin-bottom: 10px;
+  }
 
-    .footer-name {
-        margin-left: 0;
-    }
+  .footer-name {
+    margin-left: 0;
+  }
 }
