@@ -46,7 +46,7 @@ N/A
 
 ## Links
 
-[Gerardo's Portfolio](https://gera1313.github.io/2-Gerardo-Portfolio/)
+[Gerardo's Portfolio](https://gera1313.github.io/Gerardo-Portfolio/)
 
 ## Credits
 
