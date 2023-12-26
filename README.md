@@ -1,6 +1,6 @@
 # Portfolio Website
 
-## The Task
+## The Project
 
 A portfolio used to introduce myself to potential employers. The site contains informaiton about me, my work, and how to reach me. 
 
